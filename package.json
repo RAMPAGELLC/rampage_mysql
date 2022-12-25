@@ -1,0 +1,13 @@
+{
+    "name": "rampage_mysql",
+    "version": "1.0.0",
+    "description": "rampage_mysql",
+    "private": true,
+    "contributors": [
+        "vq9o"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "mysql": "^2.18.1"
+    }
+}
