@@ -1,5 +1,7 @@
 # rampage_mysql
 FiveM MySQL Wrapper API developed by RAMPAGE Interactive.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L8HAPLE)
+
 # RAMPAGE.host
 Get VPS hosting for your servers at rampage.host!
 
